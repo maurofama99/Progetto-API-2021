@@ -14,4 +14,4 @@ L'algoritmo utilizzato per calcolare la somma dei cammini più brevi tra il nodo
 La struttura dati utilizzata per implementare la classifica è un Max Heap, che con opportune personalizzazioni nel meccanismo di inserimento, si è rivelato il meotodo più efficente per il sistema.
 
 ## Testing
-L'implementazione è stata testata e debuggata attraverso un generatore di casi di test e valutata attraverso i Test Privati da una piattaforma apposita in grado di determinare la memoria occupata e il tempo di esecuzione del programma.
+L'implementazione è stata testata e debuggata attraverso [Test Pubblici](https://github.com/) e valutata attraverso test privati da una piattaforma apposita in grado di determinare la memoria occupata e il tempo di esecuzione del programma.
