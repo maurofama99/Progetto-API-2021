@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <ctype.h>
-#include "limits.h"
+#include <limits.h>
 
 #define BUFFERSIZE 2500
 
@@ -189,6 +189,5 @@ int extractMinimum(int *dist, int dim, int *q) {
             res = i;
         }
     }
-
     return res;
 }
