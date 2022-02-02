@@ -3,7 +3,7 @@ Il progetto di Algoritmi e Strutture dati consiste nella progettazione e realizz
 La struttura della specifica è pensata affinché il candidato utilizzi le conoscenze acquisite nel corso di Algoritmi e Principi dell'Informatica per realizzare un'implementazione che sia non solo corretta, ma anche con efficienza ottimale.
 
 Il progetto rientra nell’ambito della didattica innovativa; la valutazione viene fatta tramite strumenti usati nelle competizioni delle olimpiadi dell’informatica.
-L'obiettivo del progetto è la gestione di una classifica tra grafi diretti pesati. La documentazione della specifica è disponibile al seguente link.
+L'obiettivo del progetto è la gestione di una classifica tra grafi diretti pesati. La documentazione della specifica è disponibile al seguente [link](https://github.com/maurofama99/Progetto-API-2021/blob/main/Specifica%20Prova%20Finale%202021).
 
 ## Implementazione
 
